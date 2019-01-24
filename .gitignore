@@ -7,3 +7,10 @@
 *.iml
 out
 gen
+/DataGenerator/new/
+/DataGenerator/renew/
+/DataGenerator/traindata/
+/DataGenerator/totrain/
+/pytorchtest/traindata/
+/pytorchtest/checkpoints/
+/pytorchtest/valid/

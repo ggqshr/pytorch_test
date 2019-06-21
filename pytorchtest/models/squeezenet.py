@@ -1,4 +1,4 @@
-from torchvision.models import squeezenet1_1
+from torchvision.models import squeezenet1_1,alexnet
 from .basic_module import BasicModule
 from torch import nn
 from torch.optim import Adam
